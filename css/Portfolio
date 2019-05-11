@@ -1,0 +1,1036 @@
+    <!DOCTYPE html>
+
+<html>
+
+
+    <head>
+    
+        <title>ABHI - My Portfolio</title>
+        
+        <meta charset="utf-8">
+        
+        <meta name="description" content="Simple, clean, responsive website built with html5, CSS3, Js, jQuery and Bootstrap">
+        
+        <meta name="keywords" content="web, design, html, css, html5, css3, javascript, jquery, bootstrap, development">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+       
+        
+         <!-- Google Fonts -->
+        
+        <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
+        
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        
+        <link href='https://fonts.googleapis.com/css?family=Raleway:500italic,600italic,600,700,700italic,300italic,300,400,400italic,800,900' rel='stylesheet' type='text/css'>
+        
+        <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,300italic,400italic,600italic,700,900' rel='stylesheet' type='text/css'>
+        
+        <!-- favicon -->
+        <link rel="icon" type="image/png" href="images/favicon.ico">
+        
+        <!-- CSS -->
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        
+        <!-- Fontawesome  -->
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        
+        <!-- Animate CSS -->
+        <link rel="stylesheet" type="text/css" href="css/animate.css">
+        
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        
+        <!-- BX slider CSS -->
+        <link rel="stylesheet" type="text/css" href="css/jquery.bxslider.css">
+        
+        <!-- responsive css -->
+        <link rel="stylesheet" type="text/css" href="css/responsive.css">
+        
+             
+    </head>
+    
+    
+    <body>
+    
+        <!-- Header -->
+        <header class="header" id="HOME">
+            
+            <!-- Navigation -->
+            
+            <nav class="navbar navbar-default navbar-fixed-top">
+              
+                
+                <div class="container">
+                  
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#loso-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                      </button>
+                      <a class="navbar-brand" href="#">
+                          <!-- small size logo -->
+                          <img src="images/small%20abhilogo.png" alt="logo">
+
+                        </a>
+                    </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="loso-navbar-collapse-1">
+                  <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#HOME" class="nav-item">HOME</a></li>
+                        <li><a href="#ABOUT" class="nav-item">ABOUT ME</a></li>
+                        <li><a href="#FEATURES" class="nav-item">SKILLS</a></li>
+                        <li><a href="#SCREENS" class="nav-item">HOBBIES</a></li>
+                        <li><a href="#DOWNLOAD" class="nav-item">FRIEND ZONE</a></li>
+                        <li><a href="#CONTACT" class="nav-item">CONTACT ME</a></li>
+                  </ul>
+                 
+                 
+                </div><!-- /.navbar-collapse -->
+              </div><!-- /.container-fluid -->
+</nav>
+            
+            
+        
+            <div class="header-overlay">
+            
+            
+              	<div class="container header-container">
+                
+                    <div class="row">
+                    
+                        <div class="col-md-12">
+                        
+                            <!-- Logo -->
+                            <div class="logo text-center">
+                            
+                                <img src="images/abhilogo%20com.png" alt="logo">
+                            
+                            </div>
+                        
+                        </div>
+                        
+                    
+                    </div>
+                    
+                    
+                    <div class="row">
+                        
+                        <div class="col-md-8">
+                        
+                            <div class="header-text">
+                            
+                                <!-- Title & Description -->
+                                <h1> My portfolio about all my lifestyle</h1>
+                                <p> <b>Built with great Passion!</b></p>
+                            
+                            </div>
+                            
+                            <div class="header-btns">
+                            
+                                <!-- Header buttons -- -->
+                                <a class="btn btn-download wow fadeInLeft" href="https://drive.google.com/open?id=16GOfTuth-o8SRCVfjTRDPK0DaP-B8Ko1">Resume</a>
+                                
+                                
+                                
+                            
+                            </div>
+                            
+                        </div>
+                        
+                        <div class="col-md-3 col-md-offset-1">
+                        
+                            <div class="header-iphone">
+                            
+                            
+                                <!-- Header iPhone -->
+                                <img src="images/my.png" alt = "header iphone">
+                            
+                            </div>
+                        
+                            
+                        </div>
+                        
+                        
+                    </div>
+                    
+                
+                </div>
+                
+            
+            </div>
+            
+        </header>
+        
+        
+        <!-- About Us -->
+        <section id="ABOUT">
+        
+            <div class="container">
+            
+                <div class="row">
+                
+                    <div class="col-md-10 col-md-offset-1">
+                    
+                        <!-- About us Title & Description -->
+                        <div class="section-title">
+                        
+                            <h2> About Me </h2>
+                            <p>I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my course, this passion led me to challenge myself daily and learn new skills that helped me to do better work. 
+                                
+                            </p>   
+                        </div>
+                    
+                    
+                    
+                    </div>
+                
+                </div>
+            
+            
+            </div>
+        
+            <div class="choose-us-wraper">
+            
+                <div class="container">
+                
+                    <div class="row">
+                    
+                        <div class="col-md-6">
+                        
+                            <!-- About iphone -->
+                            <div class="about-iphone wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">
+                            
+                                <img class="img-responsive" src="images/abhi.png" alt="iphone">
+                            
+                            </div>
+                        
+                        </div>
+                        
+                        <div class="col-md-6 wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s">
+                        
+                            <!-- Why choose us title -->
+                            <div class="choose-us-title">
+                            
+                            
+                                <h2> Skills</h2>
+                                <p>Education Is The Milk Of Tigress Who Will Drink He Can't Stay Without Roaring!<br>Learn the skills and explore the world..! </p>
+                            
+                            </div>
+                            
+                            <!-- why choose us description -->
+                            <div class="choose-us-des">
+                            
+                                <!-- choose us item 1 -->
+                                <div class="choose-us-item wow fadeInUp" data-wow-duration=".5s" data-wow-delay="1s">
+                                    
+                                    <!-- choose us item icon -->
+                                    <div><i class="fa fa-users"></i></div>
+                                    
+                                    <!-- choose us item title & des -->
+                                    <h3>Competitive Spirit</h3>
+                                    <p>Competition has been shown to be useful up to a certain point and no further, but cooperation, which is the thing we must strive for today, begins where competition leaves off.</p>
+                                
+                                </div>
+                                
+                                
+                                <!-- choose us item 2 -->
+                                <div class="choose-us-item wow fadeInUp" data-wow-duration=".5s" data-wow-delay="1s">
+                                    
+                                    <!-- choose us item icon -->
+                                    <div>
+                                    <i class="fa fa-child"></i></div>
+                                    
+                                    <!-- choose us item title & des -->
+                                    <h3>ABilty to work independantly</h3>
+                                    <p>The best teamwork comes from men who are working independently toward one goal in unison.</p>
+                                
+                                </div>
+                                
+                                
+                                 <!-- choose us item 3 -->
+                                <div class="choose-us-item wow fadeInUp" data-wow-duration=".5s" data-wow-delay="1s">
+                                    
+                                    <!-- choose us item icon -->
+                                    <div><i class="fa fa-street-view"></i></div>
+                                    
+                                    <!-- choose us item title & des -->
+                                    <h3>Humility</h3>
+                                    <p>If you always put limit on everything you do, physical or anything else. It will spread into your work and into your life. </p>
+                                
+                                </div>
+                                
+                                
+                            
+                            </div>
+                            
+                            
+                            
+                        
+                        </div>
+                    
+                    </div>
+                
+                </div>
+            
+            </div>
+        
+        
+        </section>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        
+        
+        
+        
+         
+        <!-- Testimonials -->
+        
+        <section class="testimonial">
+        
+            <div class="testimonial-overlay">
+            
+                <div class="container">
+                
+                    <div class="row">
+                    
+                        <div class="col-md-12 wow bounceInDown">
+                        
+                        
+                            <div id="carousel-testimonial" class="carousel slide" data-ride="carousel">
+                            
+                            
+                                <!-- indicators -->
+                                <ol class="carousel-indicators">
+                                    <li data-target="#carousel-testimonial" data-slide-to="0" class="active"></li>
+                                    <li data-target="#carousel-testimonial" data-slide-to="1"></li>
+                                    <li data-target="#carousel-testimonial" data-slide-to="2"></li>
+                                </ol>
+                                
+                                
+                                <!-- wrapper for slides -->
+                                <div class="carousel-inner">
+                                    
+                                
+                                
+                                    <!-- item 01 -->
+                                    <div class="item active text-center">
+                                    
+                                    
+                                        <img src="images/clientab-01.jpeg" alt="testimonial" class="center-block">
+                                        
+                                        <div class="testimonial-caption">
+                                        
+                                            <h2>omkar deshpande</h2>
+                                            <h4><span> Sr. Software Engineer, </span>Sankey Solutions</h4>
+                                            <p>“ Friends can help each other. A true friend is someone who lets you have total freedom to be yourself - and especially to feel. Or, not feel.”</p>
+                                        
+                                        </div>
+                                        
+                                    
+                                    </div>
+                                    
+                                    <!-- item 02 -->
+                                    <div class="item text-center">
+                                    
+                                    
+                                        <img src="images/clientab-02.jpg" alt="testimonial" class="center-block">
+                                        
+                                        <div class="testimonial-caption">
+                                        
+                                            <h2>Shivraj pendalwar</h2>
+                                            <h4><span> Mechanical Engineer </span>Risko</h4>
+                                            <p>“Truly great friends are hard to find, difficult to leave, and impossible to forget.”</p>
+                                        
+                                        </div>
+                                        
+                                    
+                                    </div>
+                                    
+                                    
+                                    <!-- item 03 -->
+                                    <div class="item text-center">
+                                    
+                                    
+                                        <img src="images/clientab-03.jpg" alt="testimonial" class="center-block">
+                                        
+                                        <div class="testimonial-caption">
+                                        
+                                            <h2>Gauri suryawanshi</h2>
+                                            <h4><span> Trainee, </span>Tata Consultancy Services (TCS)</h4>
+                                            <p>“A friend is someone who understands your past, believes in your future, and accepts you just the way you are.”</p>
+                                        
+                                        </div>
+                                        
+                                    
+                                    </div>
+                                    
+                                    
+                                    
+                                
+                                </div>
+                                
+                                
+                            </div>
+                        
+                        
+                        
+                        </div>
+                        
+                        
+                    </div>
+                
+                
+                </div>
+            
+            
+            </div>
+        
+        
+        
+        </section>
+        
+        
+        <!-- Features -->
+        <section class="features" id="FEATURES">
+            
+            <div class="container">
+            
+                <div class="row">
+                
+                
+                    <div class="col-md-10 col-md-offset-1">
+                    
+                        <div class="section-title wow fadeIn" data-wow-duration="1s">
+                        
+                            <h2><b> Words to describe My Work </b></h2>
+                            
+                            <p>Stay true to yourself, yet always be open to learn. Work hard, and never give up on your dreams, even when nobody else believes they can come true but you. These are not cliches but real tools you need no matter what you do in life to stay focused on your path.</p>
+                        
+                        </div>
+                    
+                    </div>
+                    
+                    
+                
+                
+                </div>
+            
+            
+            </div>
+            
+            <div class="features-inner-wrapper">
+            
+                <div class="container">
+                
+                    <div class="row">
+                    
+                    
+                        <div class="col-md-4 wow fadeInLeft" data-wow-duration="1s">
+                        
+                            
+                            <!-- left feature item 01 -->
+                            <div class="left-feature-item">
+                                <!-- Icon -->
+                                <div class="left-feature-item-icon">
+                                    <i class="fas fa-pray"></i>
+                                </div>
+                            
+                                <!-- feature item title & description -->
+                                <h3> Dedicated </h3>
+                                <p>The price of success is hard work, dedication to the job at hand.</p>
+                            
+                            </div>
+                            
+                            
+                             <!-- left feature item 02 -->
+                            <div class="left-feature-item">
+                                <!-- Icon -->
+                                <div class="left-feature-item-icon">
+                                    <i class="fas fa-crosshairs"></i>
+                                </div>
+                            
+                                <!-- feature item title & description -->
+                                <h3> Focused </h3>
+                                <p>Stay Focused to yourself, yet always be open to learn.  </p>
+                            
+                            </div>
+                            
+                             <!-- left feature item 03 -->
+                            <div class="left-feature-item">
+                                <!-- Icon -->
+                                <div class="left-feature-item-icon">
+                                    <i class="material-icons" style="font-size:50px;color:dodgerblue">rowing</i>
+                                    </div>
+                            
+                                <!-- feature item title & description -->
+                                <h3> Hardworking</h3>
+                                <p>Work hard for what you want because it won't come to you without a fight. You have to be strong and courageous. </p>
+                            
+                            </div>
+                        
+                        
+                        
+                        </div>
+                        
+                        
+                        <div class="col-md-4">
+                        
+                                <div class="feature-iphone">
+                            
+                                    <img class="wow bounceIn img-responsive" data-wow-duration="1s" src="images/abhishks.png" alt="feature iphone">
+                            
+                                </div>
+                        
+                        
+                        </div>
+                        
+                        <div class="col-md-4 wow fadeInRight" data-wow-duration="1s">
+                        
+                            <!-- right feature item 01 -->
+                            <div class="right-feature-item">
+                            
+                                <!-- Icon -->
+                                <div class="right-feature-item-icon">
+                                    <i class="fas fa-user-tie"></i>
+                                
+                                </div>
+                                
+                                <!-- feature item title and description -->
+                                <h3> Disciplined</h3>
+                                
+                                <p>To maintain goals in our life it is very important to stay disciplined. It helps us to stay motivated. By staying motivated and  achieve all the impossible things and walk towards our goal. </p>
+                                
+                            
+                            </div>
+                            
+                            
+                            
+                             <!-- right feature item 02 -->
+                            <div class="right-feature-item">
+                            
+                                <!-- Icon -->
+                                <div class="right-feature-item-icon">
+                                    <i class="fas fa-skating"></i>
+                                
+                                </div>
+                                
+                                <!-- feature item title and description -->
+                                <h3> Eager</h3>
+                                
+                                <p>In my early days, I was eager to learn and to do things, and therefore I learned quickly.</p>
+                                
+                            
+                            </div>
+                            
+                            
+                             <!-- right feature item 03 -->
+                            <div class="right-feature-item">
+                            
+                                <!-- Icon -->
+                                <div class="right-feature-item-icon">
+                                    <i class="fas fa-male"></i>
+                                
+                                </div>
+                                
+                                <!-- feature item title and description -->
+                                <h3> Leadership</h3>
+                                
+                                <p>Leadership is not about a title or a designation. It's about impact, influence and inspiration. </p>
+                                
+                            
+                            </div>
+                        
+                        </div>
+                        
+                    
+                    
+                    </div>
+                
+                
+                </div>
+            
+            </div>
+            
+            
+            
+            
+            
+        
+        
+        </section>
+        
+        <!-- Purchase Now -->
+        <section class="purchase-now">
+        
+            <div class="container">
+            
+                <div class="row wow fadeInLeftBig" data-wow-duration="1s">
+                
+                    <div class="">
+                    
+                        <p><br><b>Acadamic Details</b><br></p>
+                    
+                    </div>
+                    
+                    <div class="">
+                    
+                        <a class="btn btn-primary btn-pruchase-now" href="https://drive.google.com/open?id=1Aj7P09V4QRvImfBALAREqJ98uQFDOYNk"  >SSC Certificate</a>
+                        
+                        
+                        <a class="btn btn-primary btn-pruchase-now" href="https://drive.google.com/open?id=1P_zrR49PXjRAYC58IN4QQOLLplSOdTJ_">HSC Certificate</a>
+                       
+                        <a class="btn btn-primary btn-pruchase-now" href="https://drive.google.com/open?id=1nxRaO3gnWL-mSAuS0ch7D3ojrcKth-2V">First Year</a>
+                        
+                        <a class="btn btn-primary btn-pruchase-now" href="https://drive.google.com/open?id=1o9suMhCympdv_ySMXVGuwKhPiOUvWeIl">Second Year</a>
+                        
+                        <a class="btn btn-primary btn-pruchase-now" href="https://drive.google.com/open?id=1y5AF5ij_d0znZjWAi3nmeIdqef6peKGj">Third Year</a>
+                        
+                        <a class="btn btn-primary btn-pruchase-now" href="https://drive.google.com/open?id=1UHph5TaPqvd91Q6uRtNOiSeXN5yiILLS">Final Year</a>
+                        
+                        <p><br><B>Internship Details.</B>
+                        <br> </p>
+                        <a class="btn btn-primary btn-pruchase-now" href="https://drive.google.com/open?id=1CmIbhcVR1CM75cmii9r5qerlaERn3iLe">Hiring Certificate</a>
+                        
+                        <a class="btn btn-primary btn-pruchase-now" href="https://drive.google.com/open?id=1WCfJmeUlrrcriWemyUpd2oOHDRb9vhOX">GOLD Certitified</a>
+                        
+                        <a class="btn btn-primary btn-pruchase-now" href="https://drive.google.com/open?id=15GxeIqtHa0XU2EfNeNoXnVbsUOw9jYY0">Letter of Recommandation</a>
+                    
+
+                                                                                                         
+                                                                                                         
+                        
+                        
+                        
+                        
+                        
+                    
+                    </div>    
+                
+                
+                </div>
+                
+            </div>
+        
+        </section>
+        
+        <!-- Screens -->
+        <section class="screens" id="SCREENS">
+        
+            <div class="container">
+            
+                <div class="row">
+                
+                    <div class="col-md-10 col-md-offset-1">
+                    
+                        <div class="section-title">
+                        
+                            <h2> Hobbies </h2>
+                            <p>Hobbies are the reflection of our lifestyle. My hobbies are fitness, photoshot and listening soulful songs.
+                            </p>
+                        </div>
+                    
+                    </div>
+                
+                </div>
+            
+            
+            </div>
+            
+            <div class="screen-slider wow bounceInRight" data-wow-duration="1s">
+            
+                <div class="container">
+                    
+                    <div class="row">
+
+                        <div class="bxslider">
+                            
+                            <div class="item">
+                                <img src="images/screenab_1.png" alt="screen">
+
+                            </div>
+                            
+                            <div class="item">
+                            <img src="images/screenab_2.png" alt="screen">
+
+                            </div>
+                            
+                            <div class="item">
+                                <img src="images/screenab_3.png"  alt="screen">
+
+                            </div>
+                            
+                            <div class="item">
+                                <img src="images/screenab_4.png" alt="screen">
+                            </div>
+
+                        </div>
+
+                        </div>
+                </div>
+            
+            
+            
+            </div>
+            
+        
+        
+        </section>
+        
+        <!-- Counters -->
+        <section class="counter">
+        
+            <div class="counter-overlay">
+            
+                <div class="container wow bounceInLeft" data-wow-duration="1s">
+                    
+                    <div class="row text-center">
+                    
+                        <div class="col-md-3">
+                        
+                            <div class="counter-item">
+                            
+                                <div><i class="fas fa-chalkboard-teacher"></i></div>
+                                <h2><span class="counter-num"> 400 </span><span>+</span></h2>
+                                <p><b>portfolio Visited</b></p>
+                            </div>
+                        
+                        </div>
+                        
+                        
+                        <div class="col-md-3">
+                        
+                            <div class="counter-item">
+                            
+                                <div><i class="fas fa-cloud-download-alt"></i></div>
+                                <h2><span class="counter-num"> 35 </span><span>+</span></h2>
+                                <p><b>document downloaded</b></p>
+                            </div>
+                        
+                        </div>
+                        
+                        <div class="col-md-3">
+                        
+                            <div class="counter-item">
+                            
+                                <div><i class="fas fa-bookmark"></i></div>
+                                <h2><span class="counter-num"> 70 </span><span>+</span></h2>
+                                <p><b>Bokmarked my portfolio</b></p>
+                            </div>
+                        
+                        </div>
+                        
+                        
+                        <div class="col-md-3">
+                        
+                            <div class="counter-item">
+                            
+                                <div><i class="fa fa-heart-o"></i></div>
+                                <h2><span class="counter-num"> 100 </span><span>+</span></h2>
+                                <p><b>likes by visitors</b></p>
+                            </div>
+                        
+                        </div>
+                    
+                        
+                    
+                    </div>
+                    
+                
+                
+                </div>
+            
+            </div>
+            
+        
+        </section>
+        
+        <!-- Download Now -->
+        <section class="download-now" id="DOWNLOAD">
+        
+            <div class="container">
+                
+                <div class="row">
+                
+                    <div class="col-md-10 col-md-offset-1">
+                    
+                        <div class="section-title">
+                        
+                        
+                            <h2> Friend Zone </h2>
+                            <p>Friends are the lifelines for the life.  There is no happiness without friends. They knows us more than our parents. <br>In the frame:- <b>Atharva,   Prem, Bilman, Sachin, Vipul, Bhushan, Suraj, Omkar & Me.</b> These are my Classmates. We are very few because we are from CSE Department</p>
+                            
+                        </div>
+                    
+                    
+                    </div>
+                    
+                
+                </div>
+            
+            </div>
+            
+            <div class="container">
+            
+                <div class="row">
+                
+                    <div class="col-md-8 col-md-offset-2 wow fadeInUp" data-wow-duration="1s">
+                    
+                            <img class="img-responsive" src="images/CSE1.jpg" alt="download screen">
+                    </div>
+                    
+                    
+                </div>
+            
+                
+            </div>
+            
+        
+        
+        </section>
+        
+        <!-- Available On -->
+        <section class="available-on">
+        
+            <div class="container wow bounceInRight" data-wow-duration="1s">
+            
+                <div class="row">
+                
+                    <div class="col-md-6">
+                    
+                        <div class="available-title">
+                            <h2>Available On </h2>
+                        
+                            <p>You can go through my profile on <B>Professional Social Platform</B> listed below. Also you can see my mini projects, important codes which include <b>Data Structure, Operating System, Data Communication, Python, Web development etc.  </b>codes. </p>    
+                        
+                        </div>
+                    
+                    </div>
+                    <div class="col-md-6">
+                    
+                        <div class="row">
+                        
+                            <a href="linkedin.com/in/abhishek-bagate-b8983914b">
+                            
+                                <div class="col-md-4 no-padding">
+                                    <div class="available-on-item">
+                                    
+                                        <i class="fab fa-linkedin"></i>
+                                        <div class="available-on-inner" >
+                                        
+                                            <h2> LINKDIN</h2>
+                                        
+                                        </div>
+                                    
+                                    </div>
+                                
+                                </div> 
+                                
+                            
+                            </a>
+                            
+                            
+                            
+                             
+                            <a href="https://github.com/abhishek15898">
+                                <div class="col-md-4 no-padding">
+                                    <div class="available-on-item">
+                                    
+                                        <i class="fab fa-github-square"></i>
+                                        <div class="available-on-inner">
+                                        
+                                            <h2> GITHUB</h2>
+                                        
+                                        </div>
+                                    
+                                    </div>
+                                
+                                </div> 
+                                
+                            
+                            </a>
+                            
+                             <a href="https://www.instagram.com/abhishek_bagate_15/">
+                            
+                                <div class="col-md-4 no-padding">
+                                    <div class="available-on-item">
+                                    
+                                        <i class="fab fa-instagram"></i>
+                                        <div class="available-on-inner">
+                                        
+                                            <h2> INSTAGRAM</h2>
+                                        
+                                        </div>
+                                    
+                                    </div>
+                                
+                                </div> 
+                                
+                            
+                            </a>
+                        
+                        
+                        
+                        </div>
+                        
+                    
+                    </div>
+                    
+                
+                
+                </div>
+            </div>
+        
+        </section>
+        
+        <!-- Contact Us -->
+        <section class="contact-us" id="CONTACT">
+        
+            <div class="container wow bounceIn">
+            
+                    <div class="row">
+
+                        <div class="col-md-10 col-md-offset-1">
+                        
+                            <div class="section-title">
+                            
+                                <h2>Contact me</h2>
+                                <p>If you find any bugs or compatibility problem please suggest me to improve my portfolio.<BR>  I am glad to hear your improvement suggestion.</p>
+                            </div>
+                            
+                        </div>
+
+
+                    </div>
+            
+            
+            </div>
+            
+            <div class="contact-us-form wow bounceIn">
+            
+            
+                <div class="container">
+                
+                    <form role="form">
+                    
+                        <div class="row">
+                        
+                            <div class="col-md-4">
+                            
+                                <input type="text" class="form-control" id="name" placeholder="Name">
+                                <input type="email" class="form-control" id="email" placeholder="Email">
+                                <input type="text" class="form-control" id="subject" placeholder="Subject">
+                            
+                            </div>
+                            
+                            <div class="col-md-8">
+                            
+                                <textarea class="form-control" id="message" rows="25" cols="10" placeholder="Message Text...."></textarea>
+                                
+                                <button type="button" href="" class="btn btn-default submit-btn form_submit">SEND</button>
+                            
+                            </div>
+                        
+                        </div>
+                    
+                    
+                    </form>
+                
+                
+                </div>
+            
+            
+            </div>
+            
+            <div class="container">
+                <div class="row">
+                
+                    <div class="col-md-12 wow bounceInLeft">
+                    
+                        <div class="social-icons">
+                        
+                            <ul>
+                            
+                                <li><a href="https://www.facebook.com/abhishek.bagate.31"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/BagateAbhishek"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.youtube.com/results?search_query=abhishek+bagate"><i class="fa fa-youtube-play"></i></a></li>
+                            
+                            </ul>
+                        
+                        
+                        </div>
+                    
+                    
+                    </div>
+                
+                </div>
+            
+            </div>
+            
+            
+            
+        
+        </section>
+        
+        <!-- Footer -->
+        <footer class="footer">
+        
+            <div class="container">
+            
+                <div class="row">
+                
+                    <div class="col-md-6">
+                    
+                        <div id="copyright">
+                            <p>Copyright &copy; 2019 <a href="#"> - ABHISHEK BAGATE</a></p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                    
+                            <div class="scroll-top">
+                                <a href="#HOME" id="scroll-to-top"><i class="fa fa-angle-up"></i></a>
+                            </div>
+                    </div>
+                
+                
+                </div>
+            
+            </div>
+        
+        
+        </footer>
+        
+        
+            
+        
+        
+                
+    <!-- Bootstrap JavaScript -->
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        
+        <!-- Bx Slider JS -->
+        <script src="js/jquery.bxslider.min.js"></script>
+        
+        <!-- Add JS counter lib -->
+        <script src="js/jquery.waypoints.min.js"></script>
+        <script src="js/jquery.counterup.min.js"></script>
+        
+        <!-- Add wow js lib -->
+        <script src="js/wow.min.js"></script>
+      
+        <!-- Custom Js -->
+        <script src="js/custom.js"></script>
+      
+        
+        
+    </body>
+
+
+</html>
